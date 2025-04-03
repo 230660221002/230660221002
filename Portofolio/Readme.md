@@ -1,6 +1,6 @@
 # 📌 Portofolio Galih Permana Sidik
 
-Ini adalah proyek portofolio pribadi berbasis **HTML, CSS, dan JavaScript** yang menampilkan informasi tentang **Galih Permana Sidik**, seorang mahasiswa Sistem Informasi di Universitas Sebelas April Sumedang.
+Ini adalah proyek portofolio pribadi berbasis HTML, CSS, dan JavaScript.
 
 ## ✨ Fitur
 - **Mode Gelap** 🌓 dengan tombol untuk mengaktifkan dan menonaktifkan.
@@ -22,7 +22,7 @@ Ini adalah proyek portofolio pribadi berbasis **HTML, CSS, dan JavaScript** yang
 │── 📄 README.md   # Dokumentasi proyek
 │── 📂 assets      # Folder untuk gambar, audio, dll.
 │   │── 📄 foto.jpg  # Foto profil
-│   │── 🎵 lagu.mp3  # Lagu favorit
+│   │── 🎵 Coldplay - Hymn For The Weekend (Official Video).mp3  # Lagu favorit
 ```
 
 ## 🚀 Cara Menjalankan
