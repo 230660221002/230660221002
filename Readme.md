@@ -20,20 +20,16 @@ Ini adalah proyek portofolio pribadi berbasis **HTML, CSS, dan JavaScript** yang
 📁 portofolio-galih
 │── 📄 index.html  # Halaman utama portofolio
 │── 📄 README.md   # Dokumentasi proyek
-│── 📂 assets      # Folder untuk gambar, audio, dll.
-│   │── 📄 foto.jpg  # Foto profil
-│   │── 🎵 lagu.mp3  # Lagu favorit
+│── 📄 foto.jpg  # Foto profil
+│── 🎵 Coldplay - Hymn For The Weekend.mp3  # Lagu favorit
 ```
 
 ## 🚀 Cara Menjalankan
 1. **Download atau clone** repository ini:
    ```bash
-   git clone https://github.com/username/portofolio-galih.git
+   git clone https://github.com/230660221002/portofolio.git
    ```
 2. **Buka file `index.html`** di browser favorit Anda.
-
-## 🖼️ Tampilan Screenshot
-![Screenshot Portofolio](https://via.placeholder.com/800x400.png?text=Preview+Portofolio)
 
 ## 📌 Kontak
 - **LinkedIn:** [linkedin.com/in/galih-permana-sidik](https://www.linkedin.com/in/galih-permana-sidik/)
